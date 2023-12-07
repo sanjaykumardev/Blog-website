@@ -22,12 +22,6 @@ const App = () => {
         <Route  path="/edit/:id" element={<EditPage />}/>
         </Routes>
    </UserContextProvider>
-     
-   
-    
-  
-     
-
   )
 }
 
