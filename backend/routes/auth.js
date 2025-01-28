@@ -26,6 +26,7 @@ router.post("/register", async (req, res) => {
 
  // for not to get a password on show box when the user in login we are using this jwt with cookie and to know about the   
 
+ 
 
 // LOGIN
 // for the user login this the method
